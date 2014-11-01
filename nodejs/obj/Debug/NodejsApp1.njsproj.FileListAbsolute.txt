@@ -1,0 +1,2 @@
+C:\Users\lenovo1\Desktop\Game\GameStudy\pomelo\nodejs\obj\Debug\NodejsApp1.njsprojResolveAssemblyReference.cache
+C:\Users\lenovo1\Desktop\Game\GameStudy\pomelo\nodejs\bin\Microsoft.NodejsTools.WebRole.dll
